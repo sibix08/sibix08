@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**sibix08/sibix08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-meu nome é sabrina souza
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](
+- Estou me desenvolvendo n linguagem javascrit;
+- Utilizo esse espaço para minha orgaização e compartilhamento de projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você enta em contato comigo 📫
+
+ 00001109341489sp@al.educacao.sp.gov.br
+
+ ![](https://media1.tenor.com/m/6L0sJYrWW68AAAAC/angry-mad.gif)
